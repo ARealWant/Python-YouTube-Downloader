@@ -12,3 +12,4 @@
 3. Unzip the folder and start the .exe file in the resources folder
 
 
+![Screenshot](Images/App.png)
