@@ -11,5 +11,6 @@
 2. Download the .zip file (YouTube Downloader.zip > Download)
 3. Unzip the folder and start the .exe file in the resources folder
 
+## Screenshots
 
 ![](Pictures/App.png)
