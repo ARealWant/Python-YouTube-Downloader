@@ -1,4 +1,7 @@
 # Python-YouTube-Downloader
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  
+
 ⏬ Download YouTube Videos with the Python YouTube Downloader, using Pytube, also already converted to an .exe file.
 You can easily copy paste a link and the video will be downlaoded in a folder on your pc!
 
